@@ -15,13 +15,12 @@ Instructions
         git clone https://github.com/jthompson18/py-project-skeleton.git my-project
         cd my-project
 
-#. Install homebrew_, pip_ and virtualenv_:
-	
-		ruby -e "$(curl -fsSL https://raw.github.com/Homebrew/homebrew/go/install)"
-		sudo chown -R $USER:admin /usr/local
-		sudo easy_install pip
-		sudo pip install virtualenv
+#. Install homebrew_, pip_ and virtualenv_::
 
+        ruby -e "$(curl -fsSL https://raw.github.com/Homebrew/homebrew/go/install)"
+        sudo chown -R $USER:admin /usr/local
+        sudo easy_install pip
+        sudo pip install virtualenv
 
 #. Create a new virtual environment for your project:
 
