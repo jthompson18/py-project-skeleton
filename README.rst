@@ -55,7 +55,6 @@ If other dependencies are needed make sure your virtualenv is activated run `pip
 This should install the package and update the requirements-dev.txt file.
 
 The Pre installed dependencies are:
-		
 		numpy
 		scipy
 		mympy
