@@ -54,6 +54,13 @@ This project's requirements-dev.txt file contains a handful of data analytics an
 If other dependencies are needed make sure your virtualenv is activated run `pip install package_name && pip freeze > requirements-dev.txt`.
 This should install the package and update the requirements-dev.txt file.
 
+The Pre installed dependencies are:
+		
+		numpy
+		scipy
+		mympy
+		matplotlib
+
 .. _homebrew: http://brew.sh/
 .. _pip: https://pip.pypa.io/en/stable/
 .. _virtualenv: http://www.virtualenv.org/en/latest/
